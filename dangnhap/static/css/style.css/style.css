@@ -1,0 +1,6 @@
+# body{
+#    background-color: brown;
+# }
+.hinhnen{
+    background: url("/static/img/sample.jpg") 50% 0 no-repeat fixed;
+}
